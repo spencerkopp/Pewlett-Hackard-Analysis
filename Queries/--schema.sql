@@ -1,8 +1,8 @@
 
 
-###In the Dept_Emp schema, create a one-to-many relationship to both of the Employees and Departments tables.
-#In the Titles schema, create a one-to-many relationship to the Employees table.
-##In the Salaries schema, create a one-to-one relationship to the Employees table.
+--In the Dept_Emp schema, create a one-to-many relationship to both of the Employees and Departments tables.
+--In the Titles schema, create a one-to-many relationship to the Employees table.
+--In the Salaries schema, create a one-to-one relationship to the Employees table.
 
 CREATE TABLE employees (
 
