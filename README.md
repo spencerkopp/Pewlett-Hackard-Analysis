@@ -15,3 +15,6 @@ The top results from mentorship_eligibility.csv can be viewed in the data folder
 <img width="700" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/107224097/185225681-6b26f147-a9bb-43ee-b667-b0f4b5a0b1e1.PNG">
 
 ## Summary
+Using the results in retiring_titles.csv, we can determine how many people, and in what roles, will be retiring for the included four year time span. The roles of Senior Enginner and Senior Staff represent the majority of employees who will be retiring in this four year time span, accounting for a combined 70% of those retiring. Hiring quotas in the future should be based on this information, in order to replace the roles of those who will be retiring soon. 
+
+The results of mentorship_eligibility.csv indicate that there will not be enough mentors in order to match with the amount of hires needed to replace those retiring. In order to find a solution for this, it may be preferable to broaden the requirements for who may become a mentor. Alternatively, multipe new hires may be assigned to a single mentor. Additionally, it would be beneficial to pay special attention to those who have aquired the experience neccesary to move up to the roles of Senior Staff or Senior Engineer.
