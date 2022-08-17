@@ -7,6 +7,8 @@ The second goal of this analysis includes creating a table which includes inform
 
 ## Results
 
+<img width="219" alt="retiring_titles" src="https://user-images.githubusercontent.com/107224097/185225355-a3ccca7d-8243-4afa-a498-a4c9090f3c71.PNG">
+
 
 
 ## Summary
