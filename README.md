@@ -6,9 +6,9 @@ The purpose of this analysis is to determine which employees will be retiring so
 The second goal of this analysis includes creating a table which includes information regarding employees born in 1965 who are eligible to participate in a part-time mentorship program. This information is stored in mentorship_eligibility.csv and includes columns for employee number, first name, last name, birth date, from date, to date, and title. 
 
 ## Results
-
+The results of the retiring_titles.csv can be viewed below:
 <img width="400" alt="retiring_titles" src="https://user-images.githubusercontent.com/107224097/185225355-a3ccca7d-8243-4afa-a498-a4c9090f3c71.PNG">
-
+The top results from mentorship_eligibility.csv can be viewed in the data folder and below:
 <img width="700" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/107224097/185225681-6b26f147-a9bb-43ee-b667-b0f4b5a0b1e1.PNG">
 
 
