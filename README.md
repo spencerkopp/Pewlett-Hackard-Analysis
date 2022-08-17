@@ -7,9 +7,11 @@ The second goal of this analysis includes creating a table which includes inform
 
 ## Results
 The results of the retiring_titles.csv can be viewed below:
-<img width="400" alt="retiring_titles" src="https://user-images.githubusercontent.com/107224097/185225355-a3ccca7d-8243-4afa-a498-a4c9090f3c71.PNG">
-The top results from mentorship_eligibility.csv can be viewed in the data folder and below:
-<img width="700" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/107224097/185225681-6b26f147-a9bb-43ee-b667-b0f4b5a0b1e1.PNG">
 
+<img width="400" alt="retiring_titles" src="https://user-images.githubusercontent.com/107224097/185225355-a3ccca7d-8243-4afa-a498-a4c9090f3c71.PNG">
+
+The top results from mentorship_eligibility.csv can be viewed in the data folder and below:
+
+<img width="700" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/107224097/185225681-6b26f147-a9bb-43ee-b667-b0f4b5a0b1e1.PNG">
 
 ## Summary
